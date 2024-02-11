@@ -8,7 +8,7 @@ Data Scientist, Leader, Data Engineer, Physicist.
 
 <div id="webaddress">
 <a href="mark.alvin.roberts@gmail.com">mark.alvin.roberts@gmail.com</a>
-| <a href="www.linkedin.com/in/DrMarkARoberts">LinkedIn</a> | <a href="tel:+18329229453">832-922-9453</a>
+| <a href="https://www.linkedin.com/in/DrMarkARoberts">LinkedIn</a> | <a href="tel:+18329229453">832-922-9453</a>
 </div>
 
 ## Summary
