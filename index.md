@@ -41,7 +41,7 @@ __Manager of Software Innovation__, TGS, Houston
 - Collaborated with the Data Analytics group to develop and deploy machine learning solutions, optimizing data-driven insights.
 
 `2017-2020`
-__Advising Research Gophysicist__, TGS, Houston
+__Advising Research Geophysicist__, TGS, Houston
 
 - Developed machine learning-based velocity estimation solution, with potential to reduce turnaround time for seismic imaging projects.
 - Integrated and extended seismic depth imaging software (RTM and FWI) from Waveseis into Spectrum Geo's internal processing suite(prior to Spectrum's acquisition by TGS in 2019), aligning it with the company's evolving needs.
