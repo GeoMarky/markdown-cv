@@ -13,7 +13,7 @@ Data Scientist, Leader, Data Engineer, Physicist.
 
 ## Summary
 
-An innovative and visionary leader with a strong background in Physics and Mathematics, specializing in leveraging cutting-edge technology to address complex challenges in the energy industry. Proven success in managing teams, implementing data science solutions, and orchestrating workflows, particularly in computer vision and seismic imaging.
+An innovative and visionary leader with a strong background in Physics and Mathematics, specializing in leveraging cutting-edge technology to address complex challenges in the energy industry. Proven success in implementing data science solutions, managing teams, and scaling solutions.
 
 ## Currently
 
@@ -27,7 +27,7 @@ __Lead Data Scientist__, TGS, Houston
 - Lead efforts of a dynamic team of data scientists, computer vision specialists, and software developers in pioneering advanced data science solutions.
 - Spearhead research and development efforts in computer vision technologies, utilizing convolutional neural networks (CNN) and Vision Transformer (ViT) models for seismic image analysis, regression, and segmentation tasks.
 - Leading a project to investigate ML based approaches to augmentent/accelerate conventional physics based inversion processes (such as Full Waveform Inversion)
-- Matured MLOps by adopting MLFlow as a model registry and Prefect 2.0 for seamless workflow orchestration.
+- Matured MLOps by adopting MLFlow as a model registry and inference at scale on-prem and on the cloud for petabyte sized datasets.
 - Successfully prototyped an interactive web app utilizing the Segment-Anything-Model (SAM) for interactive segmentation of seismic data.  The solution was generalized to handle 3D data.
 
 `2020-2023`
@@ -80,6 +80,6 @@ A list is available on [LinkedIn](https://www.linkedin.com/in/drmarkaroberts/)
 
 <!-- ### Footer
 
-Last updated: Oct 2023 -->
+Last updated: March 2025 -->
 
 
