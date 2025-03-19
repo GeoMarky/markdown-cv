@@ -27,7 +27,7 @@ __Lead Data Scientist__, TGS, Houston
 - Lead efforts of a dynamic team of data scientists, computer vision specialists, and software developers in pioneering advanced data science solutions.
 - Spearhead research and development efforts in computer vision technologies, utilizing convolutional neural networks (CNN) and Vision Transformer (ViT) models for seismic image analysis, regression, and segmentation tasks.
 - Leading a project to investigate ML based approaches to augmentent/accelerate conventional physics based inversion processes (such as Full Waveform Inversion)
-- Matured MLOps by adopting MLFlow as a model registry and inference at scale on-prem and on the cloud for petabyte sized datasets.
+- Matured MLOps by adopting MLFlow as a model registry and integrated inference with our proprietary processing system, enabling inference at scale on-prem and in the cloud for petabyte sized datasets.
 - Successfully prototyped an interactive web app utilizing the Segment-Anything-Model (SAM) for interactive segmentation of seismic data.  The solution was generalized to handle 3D data.
 
 `2020-2023`
